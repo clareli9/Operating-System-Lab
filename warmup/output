@@ -1,0 +1,1154 @@
+**Target begining loop-- A
+**Target begining loop-- Dialogue
+**Target begining loop-- on
+**Target begining loop-- Memory
+**Target begining loop-- Virtualization
+**Target begining loop-- 
+**Target -- 
+-Virtualization, Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- So,
+**Target begining loop-- are
+**Target begining loop-- we
+**Target begining loop-- done
+**Target begining loop-- with
+**Target begining loop-- virtualization?
+**Target begining loop-- 
+**Target -- 
+-virtualization?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- No!
+**Target begining loop-- 
+**Target -- 
+-No!, Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Hey,
+**Target begining loop-- no
+**Target begining loop-- reason
+**Target begining loop-- to
+**Target begining loop-- get
+**Target begining loop-- so
+**Target begining loop-- excited;
+**Target begining loop-- I
+**Target begining loop-- was
+**Target begining loop-- just
+**Target begining loop-- asking
+**Target begining loop-- a
+**Target begining loop-- question.
+**Target begining loop-- Students
+**Target begining loop-- are
+**Target begining loop-- supposed
+**Target begining loop-- to
+**Target begining loop-- do
+**Target begining loop-- that,
+**Target begining loop-- right?
+**Target begining loop-- 
+**Target -- 
+-right?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Well,
+**Target begining loop-- professors
+**Target begining loop-- do
+**Target begining loop-- always
+**Target begining loop-- say
+**Target begining loop-- that,
+**Target begining loop-- but
+**Target begining loop-- really
+**Target begining loop-- they
+**Target begining loop-- mean
+**Target begining loop-- this:
+**Target begining loop-- ask
+**Target begining loop-- questions,
+**Target begining loop-- if
+**Target begining loop-- they
+**Target begining loop-- are
+**Target begining loop-- good
+**Target begining loop-- questions,
+**Target begining loop-- and
+**Target begining loop-- you
+**Target begining loop-- have
+**Target begining loop-- actually
+**Target begining loop-- put
+**Target begining loop-- a
+**Target begining loop-- little
+**Target begining loop-- thought
+**Target begining loop-- into
+**Target begining loop-- them.
+**Target begining loop-- 
+**Target -- 
+-them., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Well,
+**Target begining loop-- that
+**Target begining loop-- sure
+**Target begining loop-- takes
+**Target begining loop-- the
+**Target begining loop-- wind
+**Target begining loop-- out
+**Target begining loop-- of
+**Target begining loop-- my
+**Target begining loop-- sails.
+**Target begining loop-- 
+**Target -- 
+-sails., Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Mission
+**Target begining loop-- accomplished.
+**Target begining loop-- In
+**Target begining loop-- any
+**Target begining loop-- case,
+**Target begining loop-- we
+**Target begining loop-- are
+**Target begining loop-- not
+**Target begining loop-- nearly
+**Target begining loop-- done
+**Target begining loop-- with
+**Target begining loop-- virtualization!
+**Target begining loop-- Rather,
+**Target begining loop-- you
+**Target begining loop-- have
+**Target begining loop-- just
+**Target begining loop-- seen
+**Target begining loop-- how
+**Target begining loop-- to
+**Target begining loop-- virtualize
+**Target begining loop-- the
+**Target begining loop-- CPU,
+**Target begining loop-- but
+**Target begining loop-- really
+**Target begining loop-- there
+**Target begining loop-- is
+**Target begining loop-- a
+**Target begining loop-- big
+**Target begining loop-- monster
+**Target begining loop-- waiting
+**Target begining loop-- in
+**Target begining loop-- the
+**Target begining loop-- closet:
+**Target begining loop-- memory.
+**Target begining loop-- Virtualizing
+**Target begining loop-- memory
+**Target begining loop-- is
+**Target begining loop-- complicated
+**Target begining loop-- and
+**Target begining loop-- requires
+**Target begining loop-- us
+**Target begining loop-- to
+**Target begining loop-- understand
+**Target begining loop-- many
+**Target begining loop-- more
+**Target begining loop-- intricate
+**Target begining loop-- details
+**Target begining loop-- about
+**Target begining loop-- how
+**Target begining loop-- the
+**Target begining loop-- hardware
+**Target begining loop-- and
+**Target begining loop-- OS
+**Target begining loop-- interact.
+**Target begining loop-- 
+**Target -- 
+-interact., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- That
+**Target begining loop-- sounds
+**Target begining loop-- cool.
+**Target begining loop-- Why
+**Target begining loop-- is
+**Target begining loop-- it
+**Target begining loop-- so
+**Target begining loop-- hard?
+**Target begining loop-- 
+**Target -- 
+-hard?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Well,
+**Target begining loop-- there
+**Target begining loop-- are
+**Target begining loop-- a
+**Target begining loop-- lot
+**Target begining loop-- of
+**Target begining loop-- details,
+**Target begining loop-- and
+**Target begining loop-- you
+**Target begining loop-- have
+**Target begining loop-- to
+**Target begining loop-- keep
+**Target begining loop-- them
+**Target begining loop-- straight
+**Target begining loop-- in
+**Target begining loop-- your
+**Target begining loop-- head
+**Target begining loop-- to
+**Target begining loop-- really
+**Target begining loop-- develop
+**Target begining loop-- a
+**Target begining loop-- mental
+**Target begining loop-- model
+**Target begining loop-- of
+**Target begining loop-- what
+**Target begining loop-- is
+**Target begining loop-- going
+**Target begining loop-- on.
+**Target begining loop-- We’ll
+**Target begining loop-- start
+**Target begining loop-- simple,
+**Target begining loop-- with
+**Target begining loop-- very
+**Target begining loop-- basic
+**Target begining loop-- techniques
+**Target begining loop-- like
+**Target begining loop-- base/bounds,
+**Target begining loop-- and
+**Target begining loop-- slowly
+**Target begining loop-- add
+**Target begining loop-- complexity
+**Target begining loop-- to
+**Target begining loop-- tackle
+**Target begining loop-- new
+**Target begining loop-- challenges,
+**Target begining loop-- including
+**Target begining loop-- fun
+**Target begining loop-- topics
+**Target begining loop-- like
+**Target begining loop-- TLBs
+**Target begining loop-- and
+**Target begining loop-- multi-level
+**Target begining loop-- page
+**Target begining loop-- tables.
+**Target begining loop-- Eventually,
+**Target begining loop-- we’ll
+**Target begining loop-- be
+**Target begining loop-- able
+**Target begining loop-- to
+**Target begining loop-- describe
+**Target begining loop-- the
+**Target begining loop-- workings
+**Target begining loop-- of
+**Target begining loop-- a
+**Target begining loop-- fully-functional
+**Target begining loop-- modern
+**Target begining loop-- virtual
+**Target begining loop-- memory
+**Target begining loop-- manager.
+**Target begining loop-- 
+**Target -- 
+-manager., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Neat!
+**Target begining loop-- Any
+**Target begining loop-- tips
+**Target begining loop-- for
+**Target begining loop-- the
+**Target begining loop-- poor
+**Target begining loop-- student,
+**Target begining loop-- inundated
+**Target begining loop-- with
+**Target begining loop-- all
+**Target begining loop-- of
+**Target begining loop-- this
+**Target begining loop-- information
+**Target begining loop-- and
+**Target begining loop-- generally
+**Target begining loop-- sleep-deprived?
+**Target begining loop-- 
+**Target -- 
+-sleep-deprived?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- For
+**Target begining loop-- the
+**Target begining loop-- sleep
+**Target begining loop-- deprivation,
+**Target begining loop-- that’s
+**Target begining loop-- easy:
+**Target begining loop-- sleep
+**Target begining loop-- more
+**Target begining loop-- (and
+**Target begining loop-- party
+**Target begining loop-- less).
+**Target begining loop-- For
+**Target begining loop-- understanding
+**Target begining loop-- virtual
+**Target begining loop-- memory,
+**Target begining loop-- start
+**Target begining loop-- with
+**Target begining loop-- this:
+**Target begining loop-- every
+**Target begining loop-- address
+**Target begining loop-- generated
+**Target begining loop-- by
+**Target begining loop-- a
+**Target begining loop-- user
+**Target begining loop-- program
+**Target begining loop-- is
+**Target begining loop-- a
+**Target begining loop-- virtual
+**Target begining loop-- address.
+**Target begining loop-- The
+**Target begining loop-- OS
+**Target begining loop-- is
+**Target begining loop-- just
+**Target begining loop-- providing
+**Target begining loop-- an
+**Target begining loop-- illusion
+**Target begining loop-- to
+**Target begining loop-- each
+**Target begining loop-- process,
+**Target begining loop-- specifically
+**Target begining loop-- that
+**Target begining loop-- it
+**Target begining loop-- has
+**Target begining loop-- its
+**Target begining loop-- own
+**Target begining loop-- large
+**Target begining loop-- and
+**Target begining loop-- private
+**Target begining loop-- memory;
+**Target begining loop-- with
+**Target begining loop-- some
+**Target begining loop-- hardware
+**Target begining loop-- help,
+**Target begining loop-- the
+**Target begining loop-- OS
+**Target begining loop-- will
+**Target begining loop-- turn
+**Target begining loop-- these
+**Target begining loop-- pretend
+**Target begining loop-- virtual
+**Target begining loop-- addresses
+**Target begining loop-- into
+**Target begining loop-- real
+**Target begining loop-- physical
+**Target begining loop-- addresses,
+**Target begining loop-- and
+**Target begining loop-- thus
+**Target begining loop-- be
+**Target begining loop-- able
+**Target begining loop-- to
+**Target begining loop-- locate
+**Target begining loop-- the
+**Target begining loop-- desired
+**Target begining loop-- information.
+**Target begining loop-- 
+**Target -- 
+-information., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- OK,
+**Target begining loop-- I
+**Target begining loop-- think
+**Target begining loop-- I
+**Target begining loop-- can
+**Target begining loop-- remember
+**Target begining loop-- that...
+**Target begining loop-- (to
+**Target begining loop-- self)
+**Target begining loop-- every
+**Target begining loop-- address
+**Target begining loop-- from
+**Target begining loop-- a
+**Target begining loop-- user
+**Target begining loop-- program
+**Target begining loop-- is
+**Target begining loop-- virtual,
+**Target begining loop-- every
+**Target begining loop-- address
+**Target begining loop-- from
+**Target begining loop-- a
+**Target begining loop-- user
+**Target begining loop-- program
+**Target begining loop-- is
+**Target begining loop-- virtual,
+**Target begining loop-- every
+**Target begining loop-- ...
+**Target begining loop-- 
+**Target -- 
+-..., Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- What
+**Target begining loop-- are
+**Target begining loop-- you
+**Target begining loop-- mumbling
+**Target begining loop-- about?
+**Target begining loop-- 
+**Target -- 
+-about?, Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Oh
+**Target begining loop-- nothing....
+**Target begining loop-- (awkward
+**Target begining loop-- pause)
+**Target begining loop-- ...
+**Target begining loop-- Anyway,
+**Target begining loop-- why
+**Target begining loop-- does
+**Target begining loop-- the
+**Target begining loop-- OS
+**Target begining loop-- want
+**Target begining loop-- to
+**Target begining loop-- provide
+**Target begining loop-- this
+**Target begining loop-- illusion
+**Target begining loop-- again?
+**Target begining loop-- 
+**Target -- 
+-again?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Mostly
+**Target begining loop-- ease
+**Target begining loop-- of
+**Target begining loop-- use:
+**Target begining loop-- the
+**Target begining loop-- OS
+**Target begining loop-- will
+**Target begining loop-- give
+**Target begining loop-- each
+**Target begining loop-- program
+**Target begining loop-- the
+**Target begining loop-- view
+**Target begining loop-- that
+**Target begining loop-- it
+**Target begining loop-- has
+**Target begining loop-- a
+**Target begining loop-- large
+**Target begining loop-- contiguous
+**Target begining loop-- address
+**Target begining loop-- space
+**Target begining loop-- to
+**Target begining loop-- put
+**Target begining loop-- its
+**Target begining loop-- code
+**Target begining loop-- and
+**Target begining loop-- data
+**Target begining loop-- into;
+**Target begining loop-- thus,
+**Target begining loop-- as
+**Target begining loop-- a
+**Target begining loop-- programmer,
+**Target begining loop-- you
+**Target begining loop-- never
+**Target begining loop-- have
+**Target begining loop-- to
+**Target begining loop-- worry
+**Target begining loop-- about
+**Target begining loop-- things
+**Target begining loop-- like
+**Target begining loop-- “where
+**Target begining loop-- should
+**Target begining loop-- I
+**Target begining loop-- store
+**Target begining loop-- this
+**Target begining loop-- variable?”
+**Target begining loop-- because
+**Target begining loop-- the
+**Target begining loop-- virtual
+**Target begining loop-- address
+**Target begining loop-- space
+**Target begining loop-- of
+**Target begining loop-- the
+**Target begining loop-- program
+**Target begining loop-- is
+**Target begining loop-- large
+**Target begining loop-- and
+**Target begining loop-- has
+**Target begining loop-- lots
+**Target begining loop-- of
+**Target begining loop-- room
+**Target begining loop-- for
+**Target begining loop-- that
+**Target begining loop-- sort
+**Target begining loop-- of
+**Target begining loop-- thing.
+**Target begining loop-- Life,
+**Target begining loop-- for
+**Target begining loop-- a
+**Target begining loop-- programmer,
+**Target begining loop-- becomes
+**Target begining loop-- much
+**Target begining loop-- more
+**Target begining loop-- tricky
+**Target begining loop-- if
+**Target begining loop-- you
+**Target begining loop-- have
+**Target begining loop-- to
+**Target begining loop-- worry
+**Target begining loop-- about
+**Target begining loop-- fitting
+**Target begining loop-- all
+**Target begining loop-- of
+**Target begining loop-- your
+**Target begining loop-- code
+**Target begining loop-- data
+**Target begining loop-- into
+**Target begining loop-- a
+**Target begining loop-- small,
+**Target begining loop-- crowded
+**Target begining loop-- memory.
+**Target begining loop-- 
+**Target -- 
+-memory., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Why
+**Target begining loop-- else?
+**Target begining loop-- 
+**Target -- 
+-else?, Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Well,
+**Target begining loop-- isolation
+**Target begining loop-- and
+**Target begining loop-- protection
+**Target begining loop-- are
+**Target begining loop-- big
+**Target begining loop-- deals,
+**Target begining loop-- too.
+**Target begining loop-- We
+**Target begining loop-- don’t
+**Target begining loop-- want
+**Target begining loop-- one
+**Target begining loop-- errant
+**Target begining loop-- program
+**Target begining loop-- to
+**Target begining loop-- be
+**Target begining loop-- able
+**Target begining loop-- to
+**Target begining loop-- read,
+**Target begining loop-- or
+**Target begining loop-- worse,
+**Target begining loop-- overwrite,
+**Target begining loop-- some
+**Target begining loop-- other
+**Target begining loop-- program’s
+**Target begining loop-- memory,
+**Target begining loop-- do
+**Target begining loop-- we?
+**Target begining loop-- 
+**Target -- 
+-we?, Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Probably
+**Target begining loop-- not.
+**Target begining loop-- Unless
+**Target begining loop-- it’s
+**Target begining loop-- a
+**Target begining loop-- program
+**Target begining loop-- written
+**Target begining loop-- by
+**Target begining loop-- someone
+**Target begining loop-- you
+**Target begining loop-- don’t
+**Target begining loop-- like.
+**Target begining loop-- 
+**Target -- 
+-like., Match!!!!!
+**Target begining loop-- Professor:
+**Target begining loop-- Hmmm....
+**Target begining loop-- I
+**Target begining loop-- think
+**Target begining loop-- we
+**Target begining loop-- might
+**Target begining loop-- need
+**Target begining loop-- to
+**Target begining loop-- add
+**Target begining loop-- a
+**Target begining loop-- class
+**Target begining loop-- on
+**Target begining loop-- morals
+**Target begining loop-- and
+**Target begining loop-- ethics
+**Target begining loop-- to
+**Target begining loop-- your
+**Target begining loop-- schedule
+**Target begining loop-- for
+**Target begining loop-- next
+**Target begining loop-- semester.
+**Target begining loop-- Perhaps
+**Target begining loop-- OS
+**Target begining loop-- class
+**Target begining loop-- isn’t
+**Target begining loop-- getting
+**Target begining loop-- the
+**Target begining loop-- right
+**Target begining loop-- message
+**Target begining loop-- across.
+**Target begining loop-- 
+**Target -- 
+-across., Match!!!!!
+**Target begining loop-- Student:
+**Target begining loop-- Maybe
+**Target begining loop-- we
+**Target begining loop-- should.
+**Target begining loop-- But
+**Target begining loop-- remember,
+**Target begining loop-- it’s
+**Target begining loop-- not
+**Target begining loop-- me
+**Target begining loop-- who
+**Target begining loop-- taught
+**Target begining loop-- us
+**Target begining loop-- that
+**Target begining loop-- the
+**Target begining loop-- proper
+**Target begining loop-- OS
+**Target begining loop-- response
+**Target begining loop-- to
+**Target begining loop-- errant
+**Target begining loop-- process
+**Target begining loop-- behavior
+**Target begining loop-- is
+**Target begining loop-- to
+**Target begining loop-- kill
+**Target begining loop-- the
+**Target begining loop-- offending
+**Target begining loop-- process!
+**Target begining loop-- 
+**Target -- 
+-process!, Match!!!!!
+**Target begining loop-- From:
+**Target begining loop-- WWW.OSTEP.ORG
+A:1
+class:1
+it’s:1
+In:1
+start:1
+complexity:1
+(to:1
+real:1
+program:1
+virtual:1
+don’t:1
+to:1
+understand:1
+someone:1
+OS:1
+start:1
+in:1
+who:1
+I:1
+more:1
+to:1
+Professor::1
+you:1
+base/bounds,:1
+thought:1
+process:1
+the:1
+put:1
+really:1
+the:1
+the:1
+its:1
+not:1
+into:1
+Life,:1
+a:1
+fully-functional:1
+a:1
+will:1
+mumbling:1
+to:1
+very:1
+have:1
+right?:2
+of:1
+Professor::1
+has:1
+turn:1
+memory:1
+this:1
+we:1
+So,:1
+to:1
+has:1
+Well,:1
+your:1
+the:1
+really:1
+your:1
+thing.:1
+every:1
+programmer,:1
+sure:1
+Professor::1
+Perhaps:1
+wind:1
+Professor::1
+across.:2
+What:1
+slowly:1
+should.:1
+is:1
+into:1
+sort:1
+actually:1
+of:1
+to:1
+else?:2
+each:1
+excited;:1
+for:1
+monster:1
+user:1
+poor:1
+want:1
+from:1
+worry:1
+seen:1
+professors:1
+things:1
+they:1
+develop:1
+the:1
+ask:1
+taught:1
+on.:1
+why:1
+think:1
+some:1
+for:1
+keep:1
+on:1
+with:1
+intricate:1
+every:1
+other:1
+but:1
+code:1
+nearly:1
+memory,:1
+No!:2
+by:1
+you:1
+Unless:1
+many:1
+address:1
+there:1
+isolation:1
+virtual,:1
+including:1
+offending:1
+lots:1
+it:1
+of:1
+accomplished.:1
+have:1
+case,:1
+how:1
+this::1
+process!:2
+too.:1
+Well,:1
+the:1
+multi-level:1
+need:1
+Virtualization:2
+variable?”:1
+protection:1
+a:1
+worry:1
+address:1
+Why:1
+pause):1
+for:1
+and:1
+the:1
+these:1
+an:1
+interact.:2
+the:1
+every:1
+isn’t:1
+if:1
+add:1
+Well,:1
+not:1
+we?:2
+But:1
+store:1
+mean:1
+about:1
+by:1
+think:1
+give:1
+party:1
+code:1
+again?:2
+Student::1
+For:1
+you:1
+virtualization!:1
+virtual:1
+student,:1
+inundated:1
+virtual:1
+Why:1
+your:1
+the:1
+Professor::1
+to:1
+memory.:1
+ease:1
+morals:1
+provide:1
+and:1
+new:1
+Mostly:1
+it:1
+WWW.OSTEP.ORG:1
+program:1
+addresses,:1
+my:1
+Professor::1
+its:1
+Hey,:1
+Student::1
+Student::1
+Student::1
+you:1
+Hmmm....:1
+Rather,:1
+each:1
+that...:1
+program:1
+and:1
+use::1
+and:1
+was:1
+small,:1
+we:1
+done:1
+Oh:1
+a:1
+able:1
+Student::1
+are:1
+a:1
+to:1
+help,:1
+out:1
+that’s:1
+OK,:1
+program:1
+head:1
+sleep:1
+fun:1
+a:1
+semester.:1
+address:1
+virtual,:1
+just:1
+will:1
+large:1
+a:1
+so:1
+and:1
+from:1
+the:1
+of:1
+a:1
+illusion:1
+it:1
+that:1
+might:1
+this:1
+Student::1
+Professor::1
+I:1
+that,:1
+are:1
+sleep:1
+like:1
+good:1
+does:1
+sails.:2
+like:1
+thus,:1
+memory.:2
+We:1
+is:1
+us:1
+do:1
+you:1
+programmer,:1
+fitting:1
+The:1
+information:1
+more:1
+of:1
+is:1
+the:1
+tricky:1
+understanding:1
+program:1
+question.:1
+...:2
+topics:1
+sleep-deprived?:2
+pretend:1
+just:1
+kill:1
+into:1
+there:1
+workings:1
+physical:1
+are:1
+data:1
+for:1
+with:1
+have:1
+that,:1
+OS:1
+a:1
+Anyway,:1
+illusion:1
+with:1
+program:1
+we:1
+are:1
+but:1
+challenges,:1
+me:1
+is:1
+asking:1
+details,:1
+to:1
+never:1
+TLBs:1
+the:1
+can:1
+hardware:1
+takes:1
+be:1
+Dialogue:1
+requires:1
+you:1
+From::1
+so:1
+the:1
+errant:1
+a:1
+addresses:1
+For:1
+is:1
+I:1
+in:1
+are:1
+locate:1
+able:1
+We’ll:1
+sounds:1
+this::1
+the:1
+questions,:1
+process,:1
+OS:1
+details:1
+worse,:1
+is:1
+next:1
+address:1
+about:1
+want:1
+waiting:1
+schedule:1
+big:1
+is:1
+Student::1
+a:1
+about:1
+with:1
+have:1
+contiguous:1
+written:1
+cool.:1
+to:1
+not.:1
+address.:1
+basic:1
+with:1
+it’s:1
+specifically:1
+or:1
+space:1
+I:1
+that:1
+I:1
+with:1
+Students:1
+virtualize:1
+space:1
+large:1
+able:1
+are:1
+overwrite,:1
+...:1
+behavior:1
+Well,:1
+like:1
+a:1
+closet::1
+them:1
+model:1
+has:1
+the:1
+virtual:1
+class:1
+Professor::1
+easy::1
+they:1
+program:1
+and:1
+and:1
+them.:2
+(and:1
+and:1
+to:1
+do:1
+data:1
+and:1
+no:1
+us:1
+“where:1
+that:1
+straight:1
+a:1
+and:1
+some:1
+memory,:1
+Student::1
+don’t:1
+OS:1
+of:1
+be:1
+Maybe:1
+tips:1
+message:1
+are:1
+is:1
+of:1
+remember:1
+generated:1
+simple,:1
+all:1
+to:1
+memory;:1
+less).:1
+as:1
+done:1
+crowded:1
+much:1
+program’s:1
+describe:1
+Eventually,:1
+be:1
+(awkward:1
+get:1
+remember,:1
+more:1
+tackle:1
+Professor::1
+room:1
+user:1
+say:1
+complicated:1
+every:1
+really:1
+always:1
+generally:1
+to:1
+desired:1
+and:1
+a:1
+do:1
+read,:1
+have:1
+self):1
+of:1
+lot:1
+right:1
+private:1
+own:1
+if:1
+virtualization?:2
+the:1
+Any:1
+manager.:2
+ethics:1
+deprivation,:1
+because:1
+hard?:2
+put:1
+add:1
+this:1
+reason:1
+like.:2
+virtual:1
+OS:1
+Memory:1
+modern:1
+to:1
+memory:1
+supposed:1
+a:1
+becomes:1
+Neat!:1
+we’ll:1
+to:1
+Mission:1
+errant:1
+we:1
+view:1
+to:1
+is:1
+large:1
+on:1
+to:1
+one:1
+page:1
+to:1
+questions,:1
+tables.:1
+about?:2
+deals,:1
+address:1
+what:1
+hardware:1
+big:1
+and:1
+to:1
+that:1
+OS:1
+is:1
+that:1
+little:1
+techniques:1
+to:1
+thus:1
+getting:1
+user:1
+response:1
+Probably:1
+should:1
+a:1
+information.:2
+going:1
+and:1
+providing:1
+CPU,:1
+Virtualizing:1
+Student::1
+how:1
+OS:1
+mental:1
+the:1
+of:1
+That:1
+Student::1
+nothing....:1
+to:1
+of:1
+any:1
+all:1
+into;:1
+just:1
+proper:1
+you:1
